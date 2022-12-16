@@ -1,0 +1,71 @@
+[
+    {
+        "type": "intro",
+        "data": "Oneiber404 -category- projects! 👋"
+    },
+    {
+        "type": "description",
+        "data": "`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple engineering student **systems**, **Analysis and development of information systems**, **backend developer**, **frontend developer**, **#MachineLearn* * and **#Videogames** lover, There's no challenge big enough not to try it, My code will change the **world** one day</em>"
+    },
+    {
+        "type": "categories",
+        "data": {}
+    },
+    {
+        "type": "rightImage",
+        "data": {
+            "image": "https://github.com/Oneiber404/Oneiber404/raw/master/img/pequesoft.png",
+            "link": "https://twitter.com/Oneiber404"
+        }
+    },
+    {
+        "type": "awesomeProjects",
+        "data": {
+            "title": "-category- Projects -emoji-",
+            "count": 9999,
+            "showEmojis": true,
+            "showScore": false,
+            "ignore_pinned": false
+        }
+    },
+    {
+        "type": "space",
+        "data": {}
+    },
+    {
+        "type": "space",
+        "data": {}
+    },
+    {
+        "type": "social",
+        "data": {
+            "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect 😋</h3>\n</div>",
+            "social": [
+                {
+                    "alt": "Oneiber404 LinkedIn",
+                    "url": "https://www.linkedin.com/in/oneiber2020/",
+                    "image": "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
+                },
+                {
+                    "alt": "Oneiber404 Twitter",
+                    "url": "https://twitter.com/oneiber404",
+                    "image": "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
+                },
+                {
+                    "alt": "Oneiber404 Instagram",
+                    "url": "https://www.instagram.com/oneiber404/",
+                    "image": "https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
+                },
+                {
+                    "alt": "Oneiber404 Youtube",
+                    "url": "https://www.youtube.com/@oneiber404",
+                    "image": "https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
+                }
+            ]
+        }
+    },
+    {
+        "type": "extra",
+        "data": "###### [* This is an autogenerate readme](https://github.com/Oneiber404/Oneiber404/tree/master/ReadmeGenerator)"
+    }
+]
