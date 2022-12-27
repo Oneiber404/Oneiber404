@@ -27,6 +27,7 @@
 
 ## Awesome Projects 📚
 - [Oneiber404  🤖 💻](https://github.com/Oneiber404/Oneiber404) 
+- [Desarrollo de Agenda Clinica, usando JS, php y fullCalendar  💻](https://github.com/Oneiber404/Agenda_clinica)
 
 
 ## my playlists 🎶
