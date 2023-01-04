@@ -14,16 +14,17 @@
 
 
 <a href="https://twitter.com/oneiber404">
+  <p align="center"><a href="https://open.spotify.com/playlist/4vahPqdI1JRwFgfrXMLu2X?si=46900e6a08a14d9a" target="blank"><img align="center" width="200px" src=""/></a>&nbsp;&nbsp;
 <img align="right" height="auto" width="200" src="https://github.com/Oneiber404/Oneiber404/raw/master/img/pequesoft.png"/>
 </a>
 
 
 ## Tech Stack ⌨
-- Python, PHP, HTML, CSS ⭐",
-- Linux",
+- Python, React, PHP, HTML, CSS ⭐",
+- Linux, AWS and Docker",
 - SQL and No relational Databases ⭐",
-- Git, Github",
-- Visual Studio Code, PyCharm, IntelliJ IDE⭐"
+- Git, Github, Gitlab, Bitbucket",
+- Visual Studio Code, PyCharm, Eclipse, IntelliJ IDEA, NetBeans,Vim,⭐"
 
 ## Awesome Projects 📚
 - [Oneiber404  🤖 💻](https://github.com/Oneiber404/Oneiber404) 
@@ -32,9 +33,7 @@
 
 
 ## my playlists 🎶
-src="https://i.ytimg.com/vi/hvVg72uCMt4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVDKL6v32wnUCY5-idSc7RBUNHyA"/></a>&nbsp;&nbsp;
 
-</p>
 
 
 <br>
