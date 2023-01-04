@@ -19,11 +19,11 @@
 
 
 ## Tech Stack ⌨
-- Python, React, PHP, HTML, CSS ⭐",
-- Linux, AWS and Docker",
+- Python, PHP, HTML, CSS ⭐",
+- Linux",
 - SQL and No relational Databases ⭐",
-- Git, Github, Gitlab, Bitbucket",
-- Visual Studio Code, PyCharm, Eclipse, IntelliJ IDEA, NetBeans,Vim,⭐"
+- Git, Github",
+- Visual Studio Code, PyCharm, IntelliJ IDE⭐"
 
 ## Awesome Projects 📚
 - [Oneiber404  🤖 💻](https://github.com/Oneiber404/Oneiber404) 
@@ -32,8 +32,7 @@
 
 
 ## my playlists 🎶
-<p align="center"><a href="https://open.spotify.com/playlist/4vahPqdI1JRwFgfrXMLu2X?si=46900e6a08a14d9a" target="blank"><img align="center" width="200px" src=""/></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/playlist/4vahPqdI1JRwFgfrXMLu2X?si=46900e6a08a14d9a" target="blank"><img align="center" width="200px" src="https://i.ytimg.com/vi/hvVg72uCMt4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVDKL6v32wnUCY5-idSc7RBUNHyA"/></a>&nbsp;&nbsp;
+src="https://i.ytimg.com/vi/hvVg72uCMt4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVDKL6v32wnUCY5-idSc7RBUNHyA"/></a>&nbsp;&nbsp;
 
 </p>
 
